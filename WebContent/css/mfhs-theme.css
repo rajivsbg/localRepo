@@ -1,0 +1,1498 @@
+body {
+	background-image:url('../images/background pattern.png');
+}
+#warrantyTable>div
+{
+	border: 0px;
+}
+.sapUiTableColHdrCnt
+{
+	background: #c6c6c6;
+}
+.sapUiTableRowEven 
+{
+	background: #eeeeee;
+}
+.sapUiTableColCell label
+{
+	font-family:"Helvetica";
+	font-size:14px;
+	font-weight: normal;
+	color:  #555752;
+}
+.sapUiTableCell span
+{
+	font-family:"Helvetica";
+	font-size:13px;
+	font-weight: normal;
+	color:  #555752;
+}
+.sapUiTableRowHdrScr div:nth-child(odd)
+{
+	background:  #eeeeee;
+}
+/*-----------Start of header CSS*/
+#mapBackButton
+{
+	margin:-3px 0 0 28px;
+}
+#modelBack
+{
+	margin: -3px 0 0 -13px;
+}
+#modelPrint
+{
+	margin-right: 15px;
+	cursor:auto;
+}
+#modelPdf
+{
+	margin-right: 11px;
+	cursor:auto;
+}
+.backPageView
+{
+border: 1px solid #c6c6c6;
+background: white;
+height: 36px;
+}
+.totalCostDetails
+{
+border: 1px solid #c6c6c6;
+background: white;
+height: 62px;
+margin:10px 0 0 0;
+}
+.costInfoAlign
+{
+	margin: 6px 0 0 10px;
+}
+#lcost
+{
+	margin: 0 0 0 123px;
+}
+#wcost
+{
+	margin: 0 0 0 122px;
+}
+.warrantyInformation
+{
+border: 1px solid #c6c6c6;
+background: white;
+height: 111px;
+margin:10px 0 0 0;	
+}
+.insideWarrantDetails
+{
+border: 1px solid #c6c6c6;
+background: white;
+height: 496px;
+margin:10px 0 0 0;	
+}
+.mapImage
+{
+	width: 969px;
+height: 495px;
+}
+.tileImage
+{
+	width: 973px;
+height: 499px;
+margin: -1px 0 0 -1px;
+}
+#tileNavigation
+{
+	border: 0px;
+}
+.warrantyTable
+{
+border: 1px solid #c6c6c6;
+background: white;
+height: 306px;
+margin:10px 0 0 0;	
+}
+#issuedOn
+{
+	margin: 0 0 0 109px;
+}
+#contactPerson
+{
+	margin: 0 0 0 148px;
+}
+#startDate
+{
+	margin: 0 0 0 165px;
+}
+#contactNumber
+{
+	margin: 0 0 0 164px;
+}
+#endDate
+{
+	margin: 0 0 0 171px;
+}
+#tileSettings
+{
+	background:white;
+   background-repeat:repeat;
+	border:1px solid #c6c6c6;
+	border-radius:2px;
+}
+#tileSettings header
+{
+	text-shadow: 0 0 white;
+}
+#tileSettings-scrollCont span
+{
+	display: block;
+	text-shadow: 0 0 white;
+	margin: 15px;
+margin-left: -19%;
+}
+#tileSettings-scrollCont button span
+{
+	margin: 0px;
+}
+#tileSettings-scrollCont button 
+{
+	margin-left: 549px;
+color: #555752;
+border: 1px solid #c6c6c6;
+border-radius: 3px;
+}
+#tileSettings-scrollCont button:hover
+{
+color:white;
+}
+#tileSettings-scrollCont span:active
+{
+border:0px;
+}
+#tileSettings-scrollCont span:nth-child(2)
+{
+margin-left: -122px;
+}
+#tileSettings-scrollCont span:nth-child(3)
+{
+margin-left: -124px;
+}
+#tileSettings-scrollCont span:nth-child(4)
+{
+margin-left: -86px;
+}
+#tileSettings-scrollCont span:nth-child(5)
+{
+margin-left: -102px;
+}
+#tileSettings-scrollCont span:nth-child(6)
+{
+margin-left: -151px;
+}
+#tileSettings-scrollCont span:nth-child(7)
+{
+margin-left: -190px;
+}
+#tileSettings-scrollCont span:nth-child(8)
+{
+margin-left: -120px;
+}
+#tileSettings-scrollCont span:nth-child(9)
+{
+margin-left: -118px;
+}
+#tileSettings-scrollCont span label
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color:  #c6c6c6;
+	margin-left: 3%;
+	}
+#mfhs-cont
+{
+	background-image:url('../images/background pattern.png');
+   background-repeat:repeat;
+   
+}
+.mfhsContent
+{
+	height:1350px;
+	margin-top: -0.8%;
+}
+
+.topHeader
+{
+	width:100%;
+	height:55px;
+	background: white;
+}
+.headerArea
+{
+	margin-top: -1%;
+}
+.homeLogo
+{
+	height: 55px;
+	width:5%;
+}
+.homeIcon
+{
+	margin-top: 6%;
+	margin-left: 32%;
+}
+.headerText
+{
+	width:64%;
+	
+	}
+.text
+{
+	font-family:"Helvetica";
+	font-size:1.6em;
+	font-weight: normal;
+	color: #555752;
+	margin-top: 5.4%;
+    margin-left: 5%;
+}
+#addAccount
+{
+	font-family:"Helvetica";
+	font-size:14px;
+	font-weight: normal;
+	color: #c6c6c6;
+	border:1px solid #c6c6c6;
+	padding: 10px;
+	padding-Top: 4px;
+	height: 28px;
+	margin: 5px 0 0 6px;
+	border-radius:3px;
+}
+#viewProfile
+{
+	font-family:"Helvetica";
+	font-size:14px;
+	font-weight: normal;
+	color: #c6c6c6;
+	border:1px solid #c6c6c6;
+	padding: 10px;
+	padding-Top: 4px;
+	height: 28px;
+	border-radius:3px;
+	margin:8px 0 0 0 ;
+}
+#addAccount:hover,#signOut:hover,#viewProfile:hover
+{
+	color:white;
+}
+.personAlign
+{
+	margin: 55px 0 0 28px;
+}
+.detailsAlign
+{
+	margin: 49px 0 0 11px;
+}
+.accountProfile
+{
+	font-family:"Helvetica";
+	font-size:17px;
+	font-weight: normal;
+	color: #c6c6c6;
+	margin: 6px 0 0 0;
+}
+#signOut
+{
+	font-family:"Helvetica";
+	font-size:14px;
+	font-weight: normal;
+	color: #c6c6c6;
+	border:1px solid #c6c6c6;
+	padding: 10px;
+padding-Top: 4px;
+height: 28px;
+margin: 5px 0 0 76px;
+border-radius:3px;
+}
+.footerLogout
+{
+	height:40px;
+	width:100%;
+	background-image:url('../images/background pattern.png');
+	border-top:1px solid #c6c6c6;
+}
+.headerBox
+{
+	height:205px;
+	width:100%;
+	
+}
+.logoutIconBox
+{
+	width:50%;
+	
+}
+.personIcon
+{
+	height: 85px;
+}
+.machineArea
+{
+	width: 20%;
+}
+.deviceLogo
+{
+width: 89%;
+margin: 11px 0 0 21px;
+
+}
+.headerpImage
+{
+width: 27px;
+height: 26px;
+margin: 5px 14px 0 0;
+cursor: pointer;
+}
+#pdfLogo,#printLogo
+{
+	cursor: auto;
+}
+#drive
+{
+	margin-top: 15px;
+}
+#warrantClose
+{
+margin-left: -8px;
+margin-right: 3px;
+}
+.serachBox
+{
+	width:19%;
+	
+}
+.headerDetailsBox
+{
+	
+	height: 200px;
+	width:100%;
+	background: red;
+}
+.Search
+{
+	
+	margin-top: 9.4%;
+}
+.welcomeText{width:6.5%;}
+.deviceType
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: bold;
+	color: #c6c6c6;
+	margin:3% 0 0 21%;
+}
+.numberDocBox
+{
+	margin: 62px 0 0 40px;
+}
+.docImage
+{
+margin: 20px 0 0 21px;
+height: 45px;
+}
+.deviceLabel
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: normal;
+	color:  #c6c6c6;
+	margin-left: 8%;
+	margin-top: 5%;
+}
+.shinfoHeader
+{
+	font-family:"Helvetica";
+	font-size: 16px;
+	font-weight: bold;
+	color:  #c6c6c6;
+	margin: 8px 0 0 10px;
+}
+.tileHeaderlabel
+{
+	font-family:"Helvetica";
+	font-size: 16px;
+	font-weight: bold;
+	color:  #c6c6c6;
+	margin: 8px 798px 0 10px;
+}
+.dHistory
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 11%;
+	margin-top: 3%;
+}
+.pHistory
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 4%;
+	margin-top: 3%;
+}
+.uHistory
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 21%;
+	margin-top: 3%;
+}
+.geoHistory
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 9%;
+	margin-top: 3%;
+}
+.warrantyText
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 29%;
+	margin-top: 3%;
+}
+.NewTile
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 42%;
+	margin-top: 3%;
+}
+.historyIcon
+{
+widtH: 25%;
+margin: 30% 0 0 38%;
+}
+.serviceInfo
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 24%;
+	margin-top: 3%;
+}
+.fgcIndustries
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: -4%;
+	margin-top: 3%;
+}
+.textBox
+{
+	margin:11px 0 0 50px;
+	
+}
+.textBoxAlign
+{
+	margin:11px 0 0 11px;
+	
+}
+.fgcBox
+{
+	margin-left: 45px;
+    margin-top: 2px;
+}
+.userIcon
+{
+margin: 39px 0 0 21px;
+width: 50px;
+
+}
+.locationIcon
+{
+margin: 6px 0 0 16px;
+width: 152px;
+height: 77px;
+}
+#efb
+{
+	margin-top: 18px;
+}
+.meterDistance
+{
+	margin-left: 7px;
+}
+.eligibilityContent
+{
+	margin-top: 18px; 
+}
+.mfgDate
+{
+	margin-top:6px;
+}
+.graphIcon
+{
+	margin: 30px 0 0 29px;
+	
+}
+#temperature
+{
+	margin-top: 10px;
+}
+#ProgIndicatorPressure-bar
+{
+	background:#a4d230;
+	border-radius:0px;
+}
+#ProgIndicatorTemp-bar
+{
+	background:#f7bc55;
+	border-radius:0px;
+}
+.indicator
+{
+margin-left: 54px;
+}
+#ProgIndicatorPressure-bar span,#ProgIndicatorTemp-bar span{color:white;}
+.insideDetailsTile
+{
+width: 971px;
+height: 545px;
+/* background: white;
+border: 1px solid #c6c6c6; */
+
+}
+.backButton
+{
+height: 41px;
+margin: -3px 0 0 7px;
+cursor: pointer;
+}
+.hideTile
+{
+	display: none;
+}
+
+.showTile
+{
+	display: block;
+}
+
+#logoutDetails
+{
+	width:320px;
+	height:240px;
+	background: -webkit-linear-gradient(top, #6E6E6E, #2E2E2E);
+	border:0px solid black;
+	border-radius:5px;
+}
+#logoutDetails-cont
+{
+	border-radius:5px;
+	margin:0px;
+	background: -webkit-linear-gradient(top, #6E6E6E, #2E2E2E);
+	margin-top: -5px;
+}
+#logoutDetails-arrow
+{
+	background: -webkit-linear-gradient(top, #6E6E6E, #2E2E2E);
+	width:13px;
+	height:14px;
+	margin-left: 2.6%;
+}
+/*-----------End of header CSS*/
+#panel-cont
+{
+	border:0px;
+	background-image:url('../images/background pattern.png');
+   background-repeat:repeat;
+}
+.panelContent .sapUiPanelCont .sapMCustomTile
+{
+float: left;
+width: 236px;
+height: 269px;
+background: white;
+border: 1px solid #cecccc;
+cursor: pointer;
+margin: 0 9px 9px 0;
+}
+#panel-hdr
+{
+	display: none;
+}
+/* #panel
+{
+	margin-top: -2.4%;
+} */
+.outerContent
+{
+height: 1300px;
+width: 100%;
+
+}
+.toolHbox
+{
+	width:18px;
+	height:1300px;
+}
+
+
+.mainVBox
+{
+	width:1347px;
+	height:1300px;
+	
+	/*
+	background:#b6b8b3;
+	box-shadow:inset 0 0 10px #000000;
+	border:1px solid black;
+	*/
+	
+	
+}
+
+#Search-I
+{
+    height: 28px;	
+}
+#fBox
+{
+	height:55px;
+	width:5%;
+}
+
+#thBox{width:19%;}
+
+.userName{width:8.3%;}
+
+.logOut
+{
+height: 8px;
+width: 15px;
+cursor: pointer;
+margin-top: 196%;
+
+}
+.welcome
+{
+	font-family:"Helvetica";
+	font-size: 1.1em;
+	font-weight: normal;
+	color: #f7bc55;
+	margin-top: 30.4%;
+	
+}
+.name
+{
+	font-family:"Helvetica";
+	font-size: 1.1em;
+	font-weight: normal;
+	color: #f7bc55;
+	margin-top: 22.9%;
+	
+}
+.settingLogo
+{
+width: 18px;
+cursor: pointer;
+z-index: 200;
+position: relative;
+margin-right: -28px;
+margin-top:271px;
+}
+#__popover0-arrow
+{
+	
+	display: none;
+}
+#popData123
+{
+	margin-left: -36px;
+	background: green;
+	border:0px solid black;
+	border-radius:0px;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	
+}
+#vtab
+{
+	width:150px;
+	height:340px;
+	
+}
+#popData123-cont
+{
+	border-radius:0px;
+	margin:0px;
+	border-top-right-radius:5px;
+	border-bottom-right-radius:5px;
+	 background: -webkit-linear-gradient(top, #6E6E6E, #2E2E2E);
+}
+#closeButton
+{
+	height: 30px;
+}
+#crossButton
+{
+height: 48px;
+width: 48px;
+margin-top: -4%;
+margin-left: 107px;
+cursor: pointer;
+}
+#serachIcon
+{
+width: 29%;
+margin-left: 33%;
+cursor: pointer;
+}
+#helpImage
+{
+width: 29%;
+margin-left: 33%;
+cursor: pointer;
+}
+#settingImage
+{
+width: 39%;
+margin-left: 33%;
+cursor: pointer;
+}
+#searchText
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: normal;
+	color: #ff990b;
+	margin-left: 30%;
+	margin-top: 3%;
+}
+#help
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: normal;
+	color: #ff990b;
+	margin-left: 36%;
+	margin-top: 3%;
+}
+#settings
+{
+	font-family:"Helvetica";
+	font-size: 17px;
+	font-weight: normal;
+	color: #ff990b;
+	margin-left: 30%;
+	
+}
+#helpButton
+{
+	margin-top: 13%;
+}
+#settingButton
+{
+	margin-top: 18%;
+}
+#serchVBox
+{
+	height: 48px;
+	width:247px;
+}
+#searchPopup
+{  
+	margin-left:4%;
+	border:0px solid black;
+	border-radius:5px;
+}
+#searchPopup-cont
+{
+	border-radius:5px;
+	margin:0px;
+	background: -webkit-linear-gradient(top, #6E6E6E, #2E2E2E);
+}
+#searchPopup-arrow
+{
+	background: -webkit-linear-gradient(top, #6E6E6E, #2E2E2E);
+	left:-10px;
+	width:20px;
+	height:20px;
+}
+.ageContent
+{
+	margin-top: 3px;
+	margin-left:3px;
+}
+
+.fixTile
+{
+width: 357px;
+height: 1300px;
+margin: 0 0 0 4%;
+
+}
+#variableTile
+{
+	width:990px;
+	height:1300px;
+	
+	
+}
+.fixedTile
+   			 {float:left;
+   			    height: 150px;
+				border:1px solid black;
+				background: #ff9b24;
+				margin:0 5px 5px 0;
+   			 }
+.genInfoTile
+{
+	width:345px;
+	height:128px;
+	background: white;
+	border:1px solid #cecccc;
+	/*margin-left:4%;
+	box-shadow: 4px 4px 3px #888888;
+	margin-top:4%;*/
+	
+}
+.tileSize
+{
+	width:345px;
+	height:128px;
+	background: white;
+	border:1px solid #cecccc;
+	/*margin-left:4%;
+	box-shadow: 4px 4px 3px #888888;*/
+	margin-top:2.6%;
+}
+#inHbox,#secHbox,#thirdHbox,#fourHbox,#fiveHbox
+{
+	margin-top: 5%;
+    margin-left: 5%;
+}
+#userProfile
+{
+	font-family:"Helvetica";
+	font-size: 21px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 16%;
+	margin-top: 5%;
+}
+.eqpNo
+{
+	font-family:"Helvetica";
+	font-size: 14px;
+	font-weight: normal;
+	color: #c6c6c6;
+	
+}
+.eqpNoAddress
+{
+	font-family:"Helvetica";
+	font-size: 16px;
+	font-weight: bold;
+	color: #c6c6c6;
+	
+}
+#serialNo,#cusName
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 24.4%;
+	margin-top: 5%;
+}
+#cusID
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 23.1%;
+	margin-top: 5%;
+}
+#cusName
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 23%;
+	margin-top: 5%;
+}
+#location,#health
+{
+	font-family:"Helvetica";
+	font-size: 21px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 33%;
+	margin-top: 5%;
+}
+#addressOne
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 23%;
+	
+}
+#addressTwo
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 23%;
+	margin-top: 3%;
+}
+#station
+{
+	font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 23%;
+	margin-top: 3.5%;
+}
+#tileText1
+{
+    font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 22%;
+    margin-top: 1%;
+
+}
+
+
+#tileText2
+{
+    font-family:"Helvetica";
+	font-size: 18px;
+	font-weight: normal;
+	color: #555752;
+	margin-left: 22%;
+	margin-top: 2%;
+
+}
+#kpi
+{
+	font-family:"Helvetica";
+	font-size: 21px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 19%;
+	margin-top: 20%;
+}
+#mainTileBox
+{
+	width: 97.5%;
+height: 932px;
+/*background: white;*/
+margin-top: 2.2%;
+}
+#healthPredictionsTile,#productStructureTile,#serviceInfoTile,#machineDataHistoryTile,#warrantyTile
+{
+width:100%;
+height: 934px;
+background:#888888;
+border:2px solid #888888;
+box-shadow: 4px 4px 3px #888888;
+
+}
+.healthPrictionTile{
+	float:left;
+	width: 225px;
+	height: 262px;
+	background: white;
+	border: 2px solid #888888;
+	box-shadow: 4px 4px 3px #888888;
+	cursor: pointer;
+	margin:0 5px 5px 0;
+	
+}
+.customTileArea
+{
+	float:left;
+	width: 236px;
+	height: 269px;
+	background: white;
+	border:1px solid #cecccc;
+	/* box-shadow: 4px 4px 3px #888888; */
+	cursor: pointer;
+	margin:0 9px 9px 0;
+}
+.customTileArea:active
+{
+	background: #f7a22f;
+}
+.upAndRunning
+{
+font-family: "Helvetica";
+font-size: 26px;
+font-weight: bold;
+color: #c6c6c6;
+margin-left: 8%;
+margin-top: 10.2%;
+cursor: pointer;
+}
+.persentage
+{
+font-family: "Helvetica";
+font-size: 61px;
+font-weight: normal;
+color: #a4d230;
+margin-left: 24%;
+margin-top: 10.2%;
+cursor: pointer;
+}
+.textTile
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: normal;
+	color: #c6c6c6;
+	margin-left: 3%;
+    margin-top: 1.2%;
+    
+}
+.meter
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: bold;
+	color: #555752;
+	margin-left: 3%;
+    margin-top: 1.2%;
+    
+}
+.probability
+{
+font-family:"Helvetica";
+font-size: 17px;
+font-weight: normal;
+color: #a4d230;
+margin-left:28%;
+cursor: pointer;
+}
+.hourDetails
+{
+font-family: "Helvetica";
+font-size: 16px;
+font-weight: normal;
+color: #c6c6c6;
+cursor: pointer;
+margin-left: 8%;
+margin-top: 18.1%;
+}
+.documentsDetails
+{
+font-family: "Helvetica";
+font-size: 16px;
+font-weight: normal;
+color: #c6c6c6;
+cursor: pointer;
+margin-left: 8%;
+margin-top: 31.1%;
+}
+.gearLogo
+{
+width: 137px;
+margin-top: 46px;
+margin-left: 50px;
+}
+.equipment
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: normal;
+	color: #555752;
+	 cursor: pointer;
+	  margin: 22px 0 0 74px;
+}
+.servicedBy
+{
+	font-family:"Helvetica";
+	font-size: 24px;
+	font-weight: normal;
+	color: #c6c6c6;
+	margin-left: 8%;
+    margin-top: 14%;
+    cursor: pointer;
+}
+.personName
+{
+	font-family:"Helvetica";
+	font-size: 22px;
+	font-weight: normal;
+	color: #a4d230;
+	margin-left:8%;
+    margin-top: 8%;
+    cursor: pointer;
+}
+.servicedItem
+{
+font-family:"Helvetica";
+font-size: 24px;
+font-weight: normal;
+color: #c6c6c6;
+margin-left: 8%;
+margin-top: 14%;
+cursor: pointer;
+}
+.itemName
+{
+font-family:"Helvetica";
+font-size: 22px;
+font-weight: normal;
+color: #a4d230;
+margin-left: 8%;
+margin-top: 8%;
+cursor: pointer;
+}
+.pWarranty
+{
+font-family:"Helvetica";
+font-size: 22px;
+font-weight: normal;
+color: #c6c6c6;
+margin-left: 8%;
+margin-top: 14%;
+cursor: pointer;	
+}
+#predictions,#structure,#info,#machine,#warranty,#addText
+{
+	font-family:"Helvetica";
+	font-size: 19px;
+	font-weight: bold;
+	color: #555752;
+	 cursor: pointer;
+	
+}
+#oTileHbox,#oTileOneHbox,#oTileTwoHbox,#oTileThreeHbox,#oTileFourHbox,#oTileFiveHbox
+{
+	margin-top: 4%;
+	margin-left:5%;
+}
+#oTileOneImage
+{
+	margin-top: 12%;
+	margin-left:13%;
+}
+#oTileOneText
+{
+	margin-top: 7%;
+margin-left: 9.1%;
+}
+#warrantyLogo
+{
+margin-left: 535%;
+margin-top: -21%;
+}
+#pieLogo
+{
+margin-left: 167px;
+margin-top: -7px;
+}
+#structureLogo
+{
+margin-left: 151px;
+margin-top: -14px;
+}
+#serviceLogo
+{
+margin-left: 240px;
+margin-top: -12px;
+}
+#hardDriveLogo,#monitorLogo
+{
+	margin-right: 110px;
+}
+
+
+#Machine
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: normal;
+	color: #555752;
+	 cursor: pointer;
+	 margin-right:90px;
+	 
+}
+#SpareParts
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: normal;
+	color: #555752;
+	 cursor: pointer;
+	
+}
+
+#rangeSlider-dateRangeSliderInternal
+{
+
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+margin: 19px 0 0 50px;
+border-bottom: 1px solid #c6c6c6;
+}
+#rangeSlider-dateRangeSliderInternal-bar
+{
+	margin-top: 16px;
+	margin-left: 23px;
+	
+}
+#rangeSlider-dateRangeSliderInternal-bubble2
+{
+	margin-left: -191px;
+}
+#rangeSlider-dateRangeSliderInternal-bar div
+{
+	font-family:"Helvetica";
+	font-weight: normal;
+	font-size:16px;
+	color:#a4d230;
+	position: static;
+	width:33px;
+	
+}
+.shfAlign
+{
+	margin: 19px 0 0 10px;
+}
+.leftTextView
+{
+	font-family:"Helvetica";
+	font-weight: normal;
+	font-size:16px;
+	color:#c6c6c6;
+}
+.rightTextView
+{
+	font-family:"Helvetica";
+	font-weight: normal;
+	font-size:14px;
+	color:#a4d230;
+	margin:0px 62px 0 6px;
+}
+.rightTextViewDate
+{
+	font-family:"Helvetica";
+	font-weight: normal;
+	font-size:14px;
+	color:#a4d230;
+	margin:0px 0px 0 6px;
+}
+#jobDoneBy
+{
+	margin-left: 24px;
+}
+#acdate
+{
+	margin-left: 88px;
+}
+.rangeSliderHbox
+{
+background: white;
+height: 135px;
+border: 1px solid #c6c6c6;
+margin: 10px 0 0 0px;
+}
+.serviceHeaderInfo
+{
+	background: white;
+height: 161px;
+border: 1px solid #c6c6c6;
+margin: 10px 0 0 0px;
+}
+#rangeSlider-dateRangeSliderInternal-grip,#rangeSlider-dateRangeSliderInternal-grip2{display: none;}
+#rangeSlider-dateRangeSliderInternal-bubble div label,#rangeSlider-dateRangeSliderInternal-bubble2 div label
+{
+	font-family:"Helvetica";
+	font-weight: normal;
+	font-size:16px;
+	color:#f7bc55;
+}
+
+
+#docBox
+{
+	margin-left: 11.5%;
+	margin-top: 16%;
+}
+#doc1,#doc2,#doc3
+{
+	margin-right: 80px;
+}
+#digonistics,#performance,#usafe,#geospatial,#history1,#history2,#history3,#history4
+{
+	font-family:"Helvetica";
+	font-size: 15px;
+	font-weight: normal;
+	color: #555752;
+	 cursor: pointer;
+	  
+}
+#digonistics
+{
+	margin-right: 35px;
+}
+#performance
+{
+	margin-right: 45px;
+}
+#usafe
+{
+	margin-right: 55px;
+}
+#historyText
+{
+margin-top: 6%;
+margin-left: 6%;
+}
+#historyTextTwo
+{
+	margin-top: 2%;
+margin-left: 9%;
+}
+#history1
+{
+	margin-right: 70px;
+}
+#history2
+{
+	margin-right: 61px;
+}
+#history3
+{
+	margin-right: 65px;
+}
+.warrntyInText
+{
+	font-family:"Helvetica";
+	font-size: 14px;
+	font-weight: bold;
+	color: #c6c6c6;
+	 
+}
+.warrntyDate
+{
+	font-family:"Helvetica";
+	font-size: 14px;
+	font-weight: normal;
+	color: #a4d230;
+	 
+}
+.boxAlign
+{
+	margin-left:8%;
+	
+}
+.topAlign
+{
+	margin-top: 10%;
+}
+.dateAlign
+{
+	margin-top: 4%;
+}
+.toLeft
+{
+	margin-left: 73px;
+}
+.dateLeft
+{
+	margin-left: 60px;
+}
+.issueLeft
+{
+	margin-left: 27px;
+}
+.issuedOn
+{
+	font-family: "Helvetica";
+font-size: 23px;
+font-weight: normal;
+color: #c6c6c6;
+margin-left: 8%;
+margin-top: 8%;
+}
+.issuereview
+{
+	font-family:"Helvetica";
+	font-size: 14px;
+	font-weight: normal;
+	color: #a4d230;
+	 margin: 4% 0 0 8%;
+}
+#fromTo
+{
+margin-top: 10%;
+margin-left: 4.9%;
+}
+#dateLength
+{
+margin-top: 4%;
+margin-left: 4.9%;
+}
+#issueDate
+{
+margin-top: 8%;
+margin-left: 4.9%;
+}
+#from
+{
+	margin-right: 166px;
+}
+#fromDate
+{
+	margin-right: 150px;
+}
+#issueOn
+{
+	margin-right: 10px;
+}
+.addLogo
+{
+	width:80px;
+	margin: 26% 0 0 31%;
+}
+#addIcon{
+margin-top: 12%;
+margin-left: 38%;
+}
+#profileHbox{}
+#logoutIconHbox{}
+.dummy
+{
+	background: white;
+	border: 1px solid #c6c6c6;
+	width:93.4%;
+	height:505px;
+	padding:2%;
+}

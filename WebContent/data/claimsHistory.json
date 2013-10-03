@@ -1,0 +1,118 @@
+{
+	"warrantInformation": [
+		{
+			"title": "Warrant Category",
+			"description": "Full Time"
+		},
+		{
+			"title": "Warrant Type",
+			"description": "EFG"
+		},
+		{
+			"title": "Start Date",
+			"description": "22-10-2012"
+		},
+		{
+			"title": "Warrant Basis",
+			"description": "ABC"
+		},
+		{
+			"title": "Issues On",
+			"description": "21-10-2013"
+		},
+		{
+			"title": "End Date",
+			"description": "22-10-2013"
+		},
+		{
+			"title": "Contact Person",
+			"description": "Adam Jones"
+		},
+		{
+			"title": "Contact Number",
+			"description": "09840733000"
+		}
+	],
+    "claimsHistory": [
+        {
+            "functionalGroup": "Engine",
+            "symptomCode": "E-027",
+            "description": "Engine oil leaking",
+            "claimAmount": "5000",
+            "laborCost": "500",
+            "spareCost": "4500"
+        },
+        {
+            "functionalGroup": "Fuel",
+            "symptomCode": "s-234",
+            "description": "Fuel pump blocked",
+            "claimAmount": "6000",
+            "laborCost": "500",
+            "spareCost": "5500"
+        },
+        {
+            "functionalGroup": "Pump",
+            "symptomCode": "M-067",
+            "description": "Pipe blocked",
+            "claimAmount": "6700",
+            "laborCost": "700",
+            "spareCost": "6000"
+        },
+        {
+            "functionalGroup": "Fuel",
+            "symptomCode": "s-234",
+            "description": "Fuel pump blocked",
+            "claimAmount": "6000",
+            "laborCost": "500",
+            "spareCost": "5500"
+        },
+        {
+            "functionalGroup": "Pump",
+            "symptomCode": "M-067",
+            "description": "Pipe blocked",
+            "claimAmount": "6700",
+            "laborCost": "700",
+            "spareCost": "6000"
+        },
+        {
+            "functionalGroup": "Fuel",
+            "symptomCode": "s-234",
+            "description": "Fuel pump blocked",
+            "claimAmount": "6000",
+            "laborCost": "500",
+            "spareCost": "5500"
+        },
+        {
+            "functionalGroup": "Pump",
+            "symptomCode": "M-067",
+            "description": "Pipe blocked",
+            "claimAmount": "6700",
+            "laborCost": "700",
+            "spareCost": "6000"
+        },
+        {
+            "functionalGroup": "Fuel",
+            "symptomCode": "s-234",
+            "description": "Fuel pump blocked",
+            "claimAmount": "6000",
+            "laborCost": "500",
+            "spareCost": "5500"
+        },
+        {
+            "functionalGroup": "Pump",
+            "symptomCode": "M-067",
+            "description": "Pipe blocked",
+            "claimAmount": "6700",
+            "laborCost": "700",
+            "spareCost": "6000"
+        },
+        {
+            "functionalGroup": "Fuel",
+            "symptomCode": "s-234",
+            "description": "Fuel pump blocked",
+            "claimAmount": "6000",
+            "laborCost": "500",
+            "spareCost": "5500"
+        }
+    ]
+}
